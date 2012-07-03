@@ -4840,6 +4840,22 @@ a.badge:hover {
   -moz-border-radius: 0px;
   border-radius: 0px;
 }
+.navbar {
+  border-bottom: 1px solid #4C4C4C;
+}
+.navbar .brand {
+  color: #fff;
+  font-weight: bold;
+  border-right: 1px solid #4C4C4C;
+}
+.navbar .nav {
+  float: right;
+}
+.navbar .nav li a {
+  color: #fff;
+  font-weight: bold;
+  border-left: 1px solid #4C4C4C;
+}
 .pull-right {
   float: right;
 }

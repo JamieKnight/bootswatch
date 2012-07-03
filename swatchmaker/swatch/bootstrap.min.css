@@ -908,6 +908,8 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .alert{-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}
+.navbar{border-bottom:1px solid #4C4C4C;}.navbar .brand{color:#fff;font-weight:bold;border-right:1px solid #4C4C4C;}
+.navbar .nav{float:right;}.navbar .nav li a{color:#fff;font-weight:bold;border-left:1px solid #4C4C4C;}
 .pull-right{float:right;}
 .pull-left{float:left;}
 .hide{display:none;}
